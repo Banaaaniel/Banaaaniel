@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Banaaaniel
 - 👀 I’m interested in games
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently coding/learning Python
+- 🎮 I'm trying to make good games with GODOT
 
 <!---
 Banaaaniel/Banaaaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
